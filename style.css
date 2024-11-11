@@ -1,15 +1,15 @@
 body{
     height: 100vh; 
     width: 100vw;
-    background-color: #1b1212;
+    background-color: #cf5b5b;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .card{
-    height: 550px;
-    width: 350px;
-    background-color: #fff;
+    height: 610px;
+    width: 375px;
+    background-color: #81eb80;
     padding: 20px;
     text-align: center;
     border-radius: 20px;
@@ -18,4 +18,5 @@ img{
     height:250px;
     width: 250px;
     border-radius: 50%;
+    border: blue;
 }
