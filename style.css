@@ -7,10 +7,10 @@ body{
     align-items: center;
 }
 .card{
-    height: 610px;
+    height: 650px;
     width: 375px;
     background-color: #81eb80;
-    padding: 20px;
+    padding:10px;
     text-align: center;
     border-radius: 20px;
 }
